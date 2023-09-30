@@ -1,4 +1,4 @@
-##Filter applier
+#Filter Applier
 
 ## Поддерживаемый формат изображений
 
