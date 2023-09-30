@@ -1,4 +1,4 @@
-add_catch(image_processor.cpp
+add_catch(main_process.cpp
         tests/test_image.cpp
         filtersmanager.h
         filtersmanager.cpp
@@ -23,7 +23,7 @@ add_catch(image_processor.cpp
 
 add_executable(
         image_processor
-        image_processor.cpp
+        main_process.cpp
         filtersmanager.h
         filtersmanager.cpp
         parser.h
